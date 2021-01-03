@@ -1,17 +1,18 @@
-# Janessa Tran
-Hello, I'm Janessa. I'm a full-stack software engineer at Ten Forward Consulting.
+<h3 align="center">👋 Hi there! I'm Janessa Tran</h3>
+<p align="center">
+  <a href="https://www.janessatran.com">Website</a> •
+  <a href="https://twitter.com/janessatran_">Twitter</a>
+</p>
 
-## My Values
-:seedling: Curiousity and Beginner's Mindset
+---
+✨ I'm a full stack engineer at [Ten Forward Consulting](https://tenforward.consulting). I'm passionate about using tech for social good and I am also an advocate for [early-career devs contributing to open-source projects](https://dev.to/janessatran/a-beginner-s-guide-to-contributing-to-open-source-4fen). 
 
-:sunflower: Authenticity and Incuslivity
+I love creating things- with code, paint, yarn, guitar, words, anything really. I also love sharing my knowledge with others through [my blog](https://janessatran.com). When I'm not coding, you can find me running, playing with my cat, or playing the guitar.
 
-:heart: Safety and Trust
 
-## How I work
-I love creative problem solving and building things that make peoples' lives easier, bring people joy, or both! 
-
-## On the web
-- Twitter: [https://twitter.com/janessatran_](https://twitter.com/janessatran_)
-- Personal site: [https://janessatran.com](https://janessatran.com)
+- 😄 My Pronouns: She/Her   
+- 💬 Ask me about: Ruby on Rails, Data Viz
+- 🌱 I’m currently learning: game development and CSS
+- 📫 How to reach me: [@janessatran_](https://twitter.com/janessatran)
+- ⚡ Fun fact: I am a triplet!
 
