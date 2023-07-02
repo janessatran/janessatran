@@ -11,6 +11,6 @@ I love creating things- with code, paint, yarn, guitar, words, anything really. 
 
 
 - 😄 My Pronouns: She/Her   
-- 📫 How to reach me: [@janessatran_](https://twitter.com/janessatran)
+- 📫 How to reach me: [@janessatran_](https://twitter.com/janessatran_)
 - ⚡ Fun fact: I am a triplet!
 
